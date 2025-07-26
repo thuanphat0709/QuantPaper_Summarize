@@ -2,9 +2,9 @@
 
 ## Served Stakeholder
 Global finalist competing in the International Quant Championship (IQC) 2024 Global Final in Singapore 
-Teammate:
-+ Chau Thuan Phat - Project Leader (https://www.linkedin.com/in/chau-thuan-phat-b60402154/)
+Our Team:
 + Pham Hien Diep - Team Leader, Strategist (https://www.linkedin.com/in/hien-diep-pham-09a59a225/)
++ Chau Thuan Phat - Project Leader (https://www.linkedin.com/in/chau-thuan-phat-b60402154/)
 + Nguyen Hoang An - Researcher (https://www.linkedin.com/in/nguyenhoangan84/)
 + Vo Minh Hieu - Engineer (https://www.linkedin.com/in/hieuvo2402/)
 + Gia Nhi Nguyen -  Admin, Supporter (https://www.linkedin.com/in/gia-nhi-nguyen-1733a8146/)

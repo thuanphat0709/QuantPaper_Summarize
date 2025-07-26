@@ -2,6 +2,8 @@
 
 ## Served Stakeholder
 Global finalist competing in the International Quant Championship (IQC) 2024 Global Final in Singapore 
+
+
 Our Team:
 + Pham Hien Diep - Team Leader, Strategist (https://www.linkedin.com/in/hien-diep-pham-09a59a225/)
 + Chau Thuan Phat - Project Leader (https://www.linkedin.com/in/chau-thuan-phat-b60402154/)

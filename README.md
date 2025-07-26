@@ -1,7 +1,7 @@
 # PaperSum - A Tool to Summarize Quant Strategy Research Papers
 
 ## Served Stakeholder
-Global finalist competing in the International Quant Championship (IQC) 2024 Global Final in Singapore 
+Global finalist competing in the International Quant Championship (IQC) 2024 Global Final in Singapore.
 
 
 Our Team:

@@ -1,6 +1,6 @@
 # PaperSum - A Tool to Summarize Quant Strategy Research Papers
 
-## Served Stakeholder
+## 1. Served Stakeholder
 Global finalist competing in the International Quant Championship (IQC) 2024 Global Final in Singapore.
 
 
@@ -11,13 +11,13 @@ Our Team:
 + Vo Minh Hieu - Engineer (https://www.linkedin.com/in/hieuvo2402/)
 + Gia Nhi Nguyen -  Admin, Supporter (https://www.linkedin.com/in/gia-nhi-nguyen-1733a8146/)
   
-## Timeline
+## 2. Timeline
 Project start to end: September 2024
 
-## Scope of Work
+## 3. Scope of Work
 This tool rapidly analyzes hundreds of quantitative strategy research papers, providing comprehensive insights into specific quant strategy domains. It leverages **OpenAI API** and **LangChain** to automate document processing and summarization, helping users quickly extract key findings, trading strategies, and performance metrics, among other details.
 
-## Process and Approach
+## 4. Process and Approach
 Input: Hundreds of trading paper files (PDF, DOC, CSV, etc.).  
 Output: Structured summaries of each paper in CSV files, serving meta-analysis of specific research domains and quantitative strategy development.  
 Process and Features:  
@@ -27,5 +27,5 @@ Process and Features:
 - Structured Output: Exports results to CSV files for easy comparison and review.
 - Automated Cleanup: Removes processed files after analysis.
 
-## Outcome
+## 5. Outcome
 See file `Output_PaperSum.xlsx`, which summarizes 150 papers surrounding three quant market-neutral strategies related to Options, News, and Fundamentals, respectively. This serves as a background for the three real best Alphas submitted to the competition in the Global Final round.
